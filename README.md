@@ -1,1 +1,1 @@
-My first readme
+it good to code
